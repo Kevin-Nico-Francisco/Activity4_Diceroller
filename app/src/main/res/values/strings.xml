@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Activity4_Diceroller</string>
+    <string name="roll">Roll</string>
 </resources>
